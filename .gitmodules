@@ -1,3 +1,6 @@
 [submodule "Numerical_Methods"]
 	path = Numerical_Methods
 	url = https://github.com/omarfarukof/Numerical_Methods.git
+[submodule "OpenCV_Simple"]
+	path = OpenCV_Simple
+	url = https://github.com/omarfarukof/OpenCV_Simple.git
