@@ -1,0 +1,3 @@
+[submodule "Numerical_Methods"]
+	path = Numerical_Methods
+	url = https://github.com/omarfarukof/Numerical_Methods.git
